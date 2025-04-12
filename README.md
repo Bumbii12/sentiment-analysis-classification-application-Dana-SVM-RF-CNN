@@ -2,7 +2,6 @@
 
 Proyek ini merupakan aplikasi analisis sentimen yang bertujuan untuk mengklasifikasikan opini atau ulasan ke dalam tiga kategori: **positif**, **netral**, dan **negatif**. Model yang digunakan meliputi **Support Vector Machine (SVM)** dan **Convolutional Neural Network (CNN)**. Dataset yang digunakan adalah hasil scraping dari aplikasi **Dana** atau sumber serupa.
 
-note : nama repositori mengandung RF yang sebenarnya tidak diubah
 ---
 
 ## 📁 Struktur File
