@@ -21,7 +21,7 @@ Proyek ini merupakan aplikasi analisis sentimen yang bertujuan untuk mengklasifi
 ### 1. Clone Repository dan Install Dependensi
 
 ```bash
-git clone <URL-repo-anda>
+git clone https://github.com/Bumbii12/sentiment-analysis-classification-application-Dana-SVM-RF-CNN.git
 cd sentiment-analysis-classification
 pip install -r requirements.txt
 ```
