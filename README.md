@@ -6,13 +6,13 @@ Proyek ini merupakan aplikasi analisis sentimen yang bertujuan untuk mengklasifi
 
 ## 📁 Struktur File
 
-| File              | Deskripsi |
-|-------------------|-----------|
-| `Scrapping.ipynb` | Scraping ulasan dari aplikasi Dana (atau sumber lain) |
+| File              | Deskripsi                                                   |
+|-------------------|-------------------------------------------------------------|
+| `Scrapping.ipynb` | Scraping ulasan dari aplikasi Dana (atau sumber lain)       |
 | `model.ipynb`     | Training model menggunakan SVM, RF, dan CNN dengan berbagai skema |
-| `Inference.ipynb` | Proses inference untuk prediksi sentimen dari input baru |
-| `requirements.txt`| Library Python yang diperlukan |
-| `README.md`       | Dokumentasi proyek ini |
+| `Inference.ipynb` | Proses inference untuk prediksi sentimen dari input baru    |
+| `requirements.txt`| Library Python yang diperlukan                              |
+| `README.md`       | Dokumentasi proyek ini                                      |
 
 ---
 
@@ -24,9 +24,10 @@ Proyek ini merupakan aplikasi analisis sentimen yang bertujuan untuk mengklasifi
 git clone <URL-repo-anda>
 cd sentiment-analysis-classification
 pip install -r requirements.txt
+```
 
+### 2. Jalankan Notebook secara Berurutan
 
-###  2. Jalankan Notebook secara Berurutan
-✅ Scrapping.ipynb
-✅ model.ipynb
-✅ Inference.ipynb
+✅ `Scrapping.ipynb`  
+✅ `model.ipynb`  
+✅ `Inference.ipynb`
