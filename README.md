@@ -24,3 +24,9 @@ Proyek ini merupakan aplikasi analisis sentimen yang bertujuan untuk mengklasifi
 git clone <URL-repo-anda>
 cd sentiment-analysis-classification
 pip install -r requirements.txt
+
+
+###  2. Jalankan Notebook secara Berurutan
+✅ Scrapping.ipynb
+✅ model.ipynb
+✅ Inference.ipynb
