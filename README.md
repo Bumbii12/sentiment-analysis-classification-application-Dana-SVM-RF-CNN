@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis Classification Application — Dana, SVM, RF, CNN
+# 🧠 Sentiment Analysis Classification Dana Application — SVM, RF, CNN
 
 Proyek ini merupakan aplikasi analisis sentimen yang bertujuan untuk mengklasifikasikan opini atau ulasan ke dalam tiga kategori: **positif**, **netral**, dan **negatif**. Model yang digunakan meliputi **Support Vector Machine (SVM)**, **Random Forest (RF)**, dan **Convolutional Neural Network (CNN)**. Dataset yang digunakan adalah hasil scraping dari aplikasi **Dana** atau sumber serupa.
 
