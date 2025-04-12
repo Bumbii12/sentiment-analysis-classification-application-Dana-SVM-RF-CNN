@@ -6,13 +6,15 @@ Proyek ini merupakan aplikasi analisis sentimen yang bertujuan untuk mengklasifi
 
 ## 📁 Struktur File
 
-| File              | Deskripsi                                                   |
-|-------------------|-------------------------------------------------------------|
-| `Scrapping.ipynb` | Scraping ulasan dari aplikasi Dana (atau sumber lain)       |
-| `model.ipynb`     | Training model menggunakan SVM, RF, dan CNN dengan berbagai skema |
-| `Inference.ipynb` | Proses inference untuk prediksi sentimen dari input baru    |
-| `requirements.txt`| Library Python yang diperlukan                              |
-| `README.md`       | Dokumentasi proyek ini                                      |
+| File               | Deskripsi                                                   |
+|------------------- |-------------------------------------------------------------|
+| `clean_dataset.csv`| Dataset hasil Scrapping                                     |
+| `Scrapping.ipynb`  | Scraping ulasan dari aplikasi Dana (atau sumber lain)       |
+| `model.ipynb`      | Training model menggunakan SVM, RF, dan CNN dengan berbagai skema |
+| `Inference.ipynb`  | Proses inference untuk prediksi sentimen dari input baru    |
+| `requirements.txt` | Library Python yang diperlukan                              |
+| `README.md`        | Dokumentasi proyek ini                                      |
+
 
 ---
 
